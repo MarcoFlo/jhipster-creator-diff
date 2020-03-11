@@ -1,0 +1,17 @@
+# jhipster-creator-diff
+- monolothic
+- no webflux
+- name: jhipstercreatordiff
+- package name: it.flo
+- no registry
+- jwt
+- mongodb
+- no cache
+- maven
+- websocket
+- angular
+- default theme
+- yes internazionalization
+- ita -> eng
+- no extra test
+- no extra generator
